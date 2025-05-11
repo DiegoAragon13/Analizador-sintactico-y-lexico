@@ -7,11 +7,6 @@ Contribución como co-autor: **Diego Felipe Aragón García** (21041217)
 
 ---
 
-## 🤝 CONTRIBUCIÓN EXTERNA  
-**Diego Felipe Aragón García** participó como co-autor en este proyecto, brindando apoyo técnico y conceptual al desarrollo del código fuente y la documentación del Analizador Léxico.
-
----
-
 ## © DERECHOS DE AUTOR  
 Todos los derechos reservados.  
 Este software y su documentación son propiedad intelectual de **Jorge Alberto Cangas Castro**, con colaboración de **Diego Felipe Aragón García**.
